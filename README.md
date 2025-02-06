@@ -21,8 +21,8 @@ The model was trained and tested in the `translator.ipynb` notebook, and the Str
 ### Setup and Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/language-translator.git
-cd language-translator
+git clone https://github.com/yourusername/Language_Translator.git
+cd Language_Translator
 
 # Run the streamlit app
 Streamlit run app.py
